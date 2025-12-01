@@ -28,6 +28,10 @@
 1. Установите Python 3.6 или выше
 2. Установите зависимости:
    ```bash
+   pip install -r requirements.txt
+   ```
+   Или установите вручную:
+   ```bash
    pip install pywin32 openpyxl
    ```
 3. Убедитесь, что RastrWin установлен и доступен через COM-интерфейс
